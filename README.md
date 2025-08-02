@@ -37,20 +37,3 @@ This project is a modern, responsive personal portfolio website built using HTML
 │   └── js-switcher.js        # Style switcher JavaScript
 ```
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/fatmamustafamuhammed/my_Portfolio.git
-   ```
-2. **Open `index.html` in your browser.**
-3. **Customize content:**
-   - Update images and text in `index.html` as needed.
-   - Add your own certificates and project images to the `images_2/` folder.
-   - Modify styles in the `css/skins/` folder for custom color themes.
-
-## Customization
-
-- **Change Color Theme:** Use the style switcher to select your preferred color skin.
-- **Add Projects/Certificates:** Place new images in the `images_2/` folder and update the HTML accordingly.
-
